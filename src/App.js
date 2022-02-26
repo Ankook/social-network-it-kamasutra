@@ -7,7 +7,7 @@ import Friends from "./components/Friends/Friends";
 import UsersContainer from "./components/Users/UsersContainer.jsx";
 import HeaderContainer from "./components/Header/HeaderContainer";
 import Login from "./components/Login/Login";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import { connect, Provider } from "react-redux";
 import { withRouter } from "react-router-dom";
 import { compose } from "redux";
@@ -68,11 +68,11 @@ const mapStateToProps = (state) => ({
     connect(mapStateToProps, { initializeApp }))(App);
   
 const SamuraiJSApp = (props) => {
-  return <BrowserRouter basename={process.env.PUBLIC_URL}>
+  return <HashRouter basename={process.env.PUBLIC_URL}>
       <Provider store={store}>
         <AppContainer />
       </Provider>
-    </BrowserRouter>
+    </HashRouter>
 }
   
 export default SamuraiJSApp;
