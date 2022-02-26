@@ -1,0 +1,52 @@
+.postsBlock {
+  grid-area: posts;
+  background: orange;
+}
+
+.postsBlock .container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.postsBlock .title  {
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.newPost {
+  position: relative;
+}
+
+
+.newPost .sendButton {
+  display: block;
+  position: relative;
+  left: 85%;
+  max-width: 100px;
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background: #579D45;
+  border-radius: 1px;
+}
+
+.textareaDiv {
+  margin-bottom: 10px;
+}
+
+.newPostTextArea  {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+
+/*.content .image-wrapper img 
+  background-repeat: repeat;
+  background-size: contain;
+  height: 100%;
+  width: 100%;
+*/

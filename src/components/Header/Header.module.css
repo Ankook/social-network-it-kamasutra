@@ -1,0 +1,21 @@
+.header {
+  grid-area: header;
+  background-color: #F2F7FC;
+}
+
+.header svg {
+  display: block;
+  max-width: 10%;
+  height: 100%;
+}
+
+.loginBlock {
+  float: right;
+  position: relative;
+  bottom: 50px;
+  right: 50px;
+}
+
+.loginBlock a {
+  color: black;
+}

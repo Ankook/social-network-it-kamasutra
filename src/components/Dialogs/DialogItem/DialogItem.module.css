@@ -1,0 +1,15 @@
+.dialogItem {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  min-height: 30px;
+}
+
+.active  {
+  color: gold;
+}
+
+.image  {
+  max-width: 27%;
+  border-radius: 50%;
+}

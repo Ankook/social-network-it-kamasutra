@@ -1,0 +1,14 @@
+.oldPosts {
+  background: yellow;
+}
+
+.textOfTheOldPost {
+  color: black;
+  height: 20px;
+}
+
+.minifiedImage img  {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+}

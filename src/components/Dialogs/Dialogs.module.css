@@ -1,0 +1,43 @@
+.dialogs {
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  padding: 10px;
+}
+
+.newPost {
+  position: relative;
+}
+
+
+.newPost .sendButton {
+  display: block;
+  position: relative;
+  left: 85%;
+  max-width: 100px;
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background: #579D45;
+  border-radius: 1px;
+}
+
+.textareaDiv {
+  margin-bottom: 10px;
+}
+
+.newPostTextArea  {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.newDialog  {
+  position: relative;
+  top: 500px;
+  left: 200px;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+.messages {
+  display: flex;
+  flex-direction: row;
+  color: green;
+  min-height: 20px;
+  background: yellow;
+  border: 5px solid green;
+}
+
+.image  {
+  max-width: 100px;
+  border-radius: 50px;
+}
+
+.text {
+  word-break: break-word;
+}

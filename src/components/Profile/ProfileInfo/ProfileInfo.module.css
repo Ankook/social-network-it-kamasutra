@@ -1,0 +1,21 @@
+.userData {
+  grid-area: user-data;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: green;
+}
+
+.userData .avatarWrapper  {
+  width: 40%;
+  background: orange;
+}
+
+.avatarWrapper img {
+  width: 100%;
+}
+
+.userData .userInformation  {
+  flex-grow: 1;
+  background: pink;
+}
