@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-network-it-kamasutra/static/css/main.c96b2137.chunk.css",
+    "main.js": "/social-network-it-kamasutra/static/js/main.4c0714ac.chunk.js",
+    "main.js.map": "/social-network-it-kamasutra/static/js/main.4c0714ac.chunk.js.map",
+    "runtime-main.js": "/social-network-it-kamasutra/static/js/runtime-main.2654b201.js",
+    "runtime-main.js.map": "/social-network-it-kamasutra/static/js/runtime-main.2654b201.js.map",
+    "static/js/2.2f0355ea.chunk.js": "/social-network-it-kamasutra/static/js/2.2f0355ea.chunk.js",
+    "static/js/2.2f0355ea.chunk.js.map": "/social-network-it-kamasutra/static/js/2.2f0355ea.chunk.js.map",
+    "index.html": "/social-network-it-kamasutra/index.html",
+    "static/css/main.c96b2137.chunk.css.map": "/social-network-it-kamasutra/static/css/main.c96b2137.chunk.css.map",
+    "static/js/2.2f0355ea.chunk.js.LICENSE.txt": "/social-network-it-kamasutra/static/js/2.2f0355ea.chunk.js.LICENSE.txt",
+    "static/media/agent-smith.29535c66.png": "/social-network-it-kamasutra/static/media/agent-smith.29535c66.png",
+    "static/media/preloader.3069ae20.svg": "/social-network-it-kamasutra/static/media/preloader.3069ae20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2654b201.js",
+    "static/js/2.2f0355ea.chunk.js",
+    "static/css/main.c96b2137.chunk.css",
+    "static/js/main.4c0714ac.chunk.js"
+  ]
+}
